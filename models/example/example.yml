@@ -1,0 +1,11 @@
+version: 2
+
+sours:
+  - name: firstData   
+    database: myfristproject-348319
+    schema: Raw 
+    tables: 
+      - name: shop_customers
+        identifier: jaffle_shop_customers
+      - name: shop_orders
+        identifier: jaffle_shop_orders
